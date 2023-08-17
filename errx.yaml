@@ -1,0 +1,9 @@
+errx:
+  10001:
+    InvalidParamError: '参数异常'
+  100002:
+    RecordNotFound: '未找到查询结果'
+  10003:
+    TopKInvalid: '超出topk限制'
+  50001:
+    InternalError: '系统异常'
